@@ -4,7 +4,8 @@
   "description": "A simple skeleton for new Node.js projects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./src/main.js",
+    "build": "./node_modules/.bin/eslint src/**"
   },
   "repository": {
     "type": "git",
@@ -16,14 +17,7 @@
     "url": "https://github.com/mauroao/nodejs-skeleton/issues"
   },
   "homepage": "https://github.com/mauroao/nodejs-skeleton#readme",
-  "dependencies": {},
-  "devDependencies": {
-    "eslint": "^7.0.0",
-    "eslint-config-airbnb-base": "^14.1.0",
-    "eslint-config-standard": "^14.1.1",
-    "eslint-plugin-import": "^2.20.2",
-    "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-standard": "^4.0.1"
+  "dependencies": {
+    "eslint": "^7.0.0"
   }
 }
