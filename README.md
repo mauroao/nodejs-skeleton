@@ -7,7 +7,7 @@ This project aims to be used as a template for other new node.js projects.
 
 ### Prerequisites
 
-* Download and install [Node.js](https://nodejs.org/en/) (LTS version)
+* Download and install [Node.js](https://nodejs.org/en/) (version 12 or above) 
 * Download and install [Visual Studio Code](https://code.visualstudio.com)
 * Install the following Visual Studio Code extensions:
   - VS Code ESLint extension
@@ -28,6 +28,11 @@ This project aims to be used as a template for other new node.js projects.
 
 - Open command prompt, navigate to `nodejs-skeleton` folder;
 - Type `npm start` and press [ENTER];
+
+### Running tests 
+
+- Open command prompt, navigate to `nodejs-skeleton` folder;
+- Type `npm test` and press [ENTER];
 
 ### Debug 
 
