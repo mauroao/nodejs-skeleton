@@ -1,6 +1,7 @@
 # Node.js Skeleton
 
-A simple skeleton for new Node.js projects.
+A simple skeleton for new Node.js projects. <br />
+This project aims to be used as a template for other new node.js projects.
 
 ## Gettin Started
 
