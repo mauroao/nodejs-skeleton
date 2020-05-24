@@ -1,8 +1,7 @@
 let assert = require('assert');
-let createCalculator = require('../src/calculator');
+let calculator = require('../src/calculator');
 
 describe('Calculator', function() {
-  let calculator = createCalculator();
 
   describe('#sum()', function() {
     it('should return 2 when parameters = 1,1', function() {

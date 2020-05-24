@@ -1,7 +1,5 @@
-const createCalculator = require('./calculator');
+const calculator = require('./calculator');
 const { readlineAsync } = require('./std-input-handler');
-
-const calculator = createCalculator();
 
 const run = async () => {
   console.log('Wellcome to Calculator Application!');

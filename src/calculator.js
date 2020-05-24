@@ -4,6 +4,4 @@ class Calculator {
   }
 }
 
-const createCalculator = () => new Calculator();
-
-module.exports = createCalculator;
+module.exports = new Calculator();
