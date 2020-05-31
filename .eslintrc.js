@@ -3,15 +3,14 @@ module.exports = {
     commonjs: true,
     es6: true,
     es2017: true,
-    node: true,
+      node: true,
     mocha: true
   },
   extends: [
-    'eslint:recommended'
-  ],
+    'eslint:recommended',
+    'prettier'],
+  plugins: ['prettier'],
   rules: {
-    indent: ['error', 2],
-    quotes: ['error', 'single'],
-    semi: ['error', 'always']
+    'prettier/prettier': 'error'
   }
 };
