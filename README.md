@@ -68,7 +68,7 @@ Use Visual Studio Code to launch and debug application.
 Description: <br />
 Launch application from terminal and use Visual Studio Code to attach process.
 
-1. Follow steps from 1 to 5 of the "*Debug application - Launch method*" chapter;
+1. Follow steps from 1 to 5 from "*Debug application - Launch method*" chapter;
 2. Open a **new** window Terminal (**not** the integrated Visual Studio terminal!);
 3. Navigate to `nodejs-skeleton` folder;
 4. Run command:
@@ -84,7 +84,7 @@ npm run debug
 Description: <br />
 Launch tests from terminal and use Visual Studio Code to attach process.
 
-1. Follow steps from 1 to 5 of the "*Debug application - Launch method*" chapter, but at item 4, choose `test/test.js` file instead;
+1. Follow steps from 1 to 5 from "*Debug application - Launch method*" chapter, but at item 4, choose `test/test.js` file instead;
 2. Open a **new** window Terminal (**not** the integrated Visual Studio terminal!);
 3. Navigate to `nodejs-skeleton` folder;
 4. Run command:
