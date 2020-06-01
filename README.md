@@ -52,6 +52,7 @@ Here I show how to setup Node.js environment, Visual Studio Code setup and plugi
 
 ## Debug application - Launch method
 
+Description: <br />
 Use Visual Studio Code to launch and debug application.
 
 1. Open Visual Studio Code;
@@ -64,6 +65,7 @@ Use Visual Studio Code to launch and debug application.
 
 ### Debug application - Attach method
 
+Description: <br />
 Launch application from terminal and use Visual Studio Code to attach process.
 
 1. Follow steps from 1 to 5 of the "*Debug application - Launch method*" chapter;
@@ -79,6 +81,7 @@ npm run debug
 
 ### Debug test - Attach method
 
+Description: <br />
 Launch tests from terminal and use Visual Studio Code to attach process.
 
 1. Follow steps from 1 to 5 of the "*Debug application - Launch method*" chapter, but at item 4, choose `test/test.js` file instead;
