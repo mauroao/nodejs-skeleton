@@ -95,3 +95,7 @@ npm run test:debug
 5. Switch back to Visual Studio Code;
 6. Choose "Attach" option at the drop down box;
 7. Click debug button (green "play" icon);
+
+### References
+
+* [Set up ESlint, Prettier & EditorConfig without conflicts](https://blog.theodo.com/2019/08/empower-your-dev-environment-with-eslint-prettier-and-editorconfig-with-no-conflicts/)
