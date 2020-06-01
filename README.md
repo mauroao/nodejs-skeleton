@@ -94,4 +94,3 @@ npm run test:debug
 5. Switch back to Visual Studio Code;
 6. Choose "Attach" option at the drop down box;
 7. Click debug button (green "play" icon);
-
