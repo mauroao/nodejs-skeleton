@@ -4,9 +4,11 @@
   "description": "A simple skeleton for new Node.js projects",
   "scripts": {
     "start": "node ./src/main.js",
-    "lint": "./node_modules/.bin/eslint **/*.js",
-    "lint:fix": "./node_modules/.bin/eslint **/*.js --fix",
-    "test": "./node_modules/.bin/mocha"
+    "lint": "eslint **/*.js",
+    "lint:fix": "eslint **/*.js --fix",
+    "test": "mocha",
+    "test:debug": "mocha --inspect-brk",
+    "debug": "node --inspect-brk ./src/main.js"
   },
   "license": "ISC",
   "dependencies": {},
