@@ -1,3 +1,4 @@
+![Node.js CI](https://github.com/mauroao/nodejs-skeleton/workflows/Node.js%20CI/badge.svg)
 # Node.js Skeleton
 
 ## What is this project
