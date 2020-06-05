@@ -31,7 +31,7 @@ Here I show how to setup Node.js environment, Visual Studio Code setup and plugi
   npm start
   ```
 
-## Run ESLint (check js syntax)
+## Run ESLint (check javascript syntax)
 
 - Open command prompt, navigate to `nodejs-skeleton` folder;
 - Type command:
